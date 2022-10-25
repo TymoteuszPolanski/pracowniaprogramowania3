@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Books
+comment1.params=
+comment1.target=void\ displayinfo()
+comment2.params=
+comment2.target=void\ changestatus()
+comment3.params=
+comment3.target=void\ changepriceup()
+comment4.params=
+comment4.target=void\ changepricedown()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
